@@ -1,5 +1,5 @@
 // latte / frappe / macchiato / mocha
-const palette = macchiato;
+const palette = mocha;
 
 const default_config = {
   overrideStorage: true,
@@ -75,14 +75,14 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
+              name: "reddit",
+              url: "https://www.reddit.com",
               icon: "badge-filled",
               icon_color: palette.peach,
             },
             {
-              name: "куток",
-              url: "https://kutok.io",
+              name: "Instagram",
+              url: "https://www.instagram.com",
               icon: "border-radius",
               icon_color: palette.red,
             },
